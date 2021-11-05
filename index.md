@@ -6,9 +6,9 @@
 <br>
 
 
-作品：Invitation to the Dance
-作者：Tamara Allen
-评分：4.5/5
+作品：Invitation to the Dance <br>
+作者：Tamara Allen <br>
+评分：4.5/5 <br>
 
 关键词：美国近代风；仇人变爱人；记者 & 编辑；冒牌贵族误入上流社会
 
